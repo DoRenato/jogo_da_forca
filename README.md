@@ -1,0 +1,1 @@
+Basta colocar as palavras no json acompanhado das 5 dicas. (Precisa ser 5, ou o programa irá parar.)
